@@ -1,1 +1,1 @@
-hosted link  :  https://github.com/sudhanshusudan33/Food.git
+hosted link  :  https://sudhanshusudan33.github.io/Food/
